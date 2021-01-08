@@ -1,0 +1,15 @@
+
+
+#EXTM3U
+#EXTINF:-1,Sportv 1
+https://cdn3.wowza.com/1/UmRJTkFqcDlQVlNn/ZW5ZWDdN/hls/h6bntjhn/2728/chunklist.m3u8?
+#EXTINF:-1,Sportv 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Local 1
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/56
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",Bein Sport HD1
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/1
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BEIN SPORTS 4HD
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/4
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BEIN SPORTS 3HD
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/3
